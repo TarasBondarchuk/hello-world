@@ -1,2 +1,2 @@
-# hello-world
-Длинная такса
+a=5
+print (a)
